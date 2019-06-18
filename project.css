@@ -1,0 +1,497 @@
+body{
+	background: #525659;
+}
+.fullpage{
+	background-color: #FFFFFF;
+	height:auto;
+	width: 960px;
+	margin:0px auto;
+}
+.manu{
+	height: 90px;
+	width: 100%;
+	background-color: white;
+}
+img{
+	height: 20px;
+	width: 20px;
+	margin-left:50px;
+}
+.homestate{
+	float:left;
+	margin-left:100px;
+	margin-top:50px;
+	text-align:left;
+	font-size: 30px;
+	font-family: sans-serif;
+	color: green;
+	font-weight: bold;	
+}
+#nav{
+	float:right;
+	margin-right:80px;
+	margin-top:50px;
+	text-align:right;
+}
+#nav li{
+	float: right;
+	list-style:none;
+	text-decoration: none;
+	font-size: 30px;
+	text-align: center;
+	font-family:sans-serif;
+
+}
+#nav li a{
+float:right;
+width: 100px;
+display:block;
+text-decoration: none;
+text-align: center;
+}
+
+.container{
+	width: 940px;
+	height: 650px;
+	margin: 0px auto;
+	background:url("photos/221509_wolf_ranch_cov001.jpg");
+	background-size:cover;
+}
+.inner{
+	width: 400px;
+	height: 517px;
+	background:rgba(35, 8, 3, 0.5);
+	position: relative;
+	left: 8%;
+}
+.rent{
+	height: 50px;
+	width: 70px;
+    font-size: 20px;
+    color: #f9fcfd;
+    background-color: #a60fe8;
+    border: none;
+    margin-top: 28px;
+    margin-left: 47px;
+}
+.p1{
+	font-size: 40px;
+	color: white;
+	margin-top: 28px;
+    margin-left: 47px;
+    font-family: sans-serif;
+
+}
+.p2{
+	font-size: 40px;
+	color: yellow;
+	margin-top: 15px;
+    margin-left: 47px;
+    font-family: sans-serif;
+}
+.p3{
+	font-size: 15px;
+	color: white;
+	margin-top: 15px;
+    margin-left: 47px;
+    font-family: sans-serif;
+}
+ol{
+	color: white;
+	font-size: 30px
+	margin-top: 5px;
+    margin-left: 47px;
+}
+ol,li{
+	font-size: 15px;
+}
+.learn{
+	height: 50px;
+	width: 200px;
+    font-size: 20px;
+    color: #f9fcfd;
+    background-color: #a60fe8;
+    border: none;
+    margin-top: 10px;
+    margin-left: 47px;
+    border-radius: 5px;
+}
+
+.container2{
+	width: 940px;
+	height: 700px;
+	background:url("photos/computer.jpeg");
+	background-size: cover;
+	margin: 0px auto;
+}
+.inner2{
+	width: 500px;
+	height: 650px;
+	background:rgba(35, 8, 3, 0.5);
+	position: relative;
+}
+.Search,p{
+	margin: 0px;
+	font-size: 30px;
+	font-family: serif;
+	color: white;
+}
+.label{
+	margin-left: 20px;
+	font-size: 20px;
+	font-family: serif;
+	float: left;
+	display: block;
+	color: white;
+	padding: 17px;
+}
+.input{
+	margin-left: 100px;
+	float: right;
+	clear: both;
+	width: 200px;
+	box-sizing: border-box;
+}
+.input1{
+	margin-left: 100px;
+	float: right;
+	display: inline;
+}
+#Price,#Bedrooms,#Bathrooms,#Area,#Parking{
+	margin-left: 5px;
+	float: right;
+	width: 80px;
+}
+.button2{
+	width: 200px;
+	height: 30px;
+	background-color: black;
+	color: white;
+	font-family: serif;
+	border:none;
+	margin-left: 250px;
+}
+.footer1{
+	margin: 0px auto;
+	height: 220px;
+	width: 960px;
+}
+.part1{
+	width: 300px;
+	margin-top: 40px;
+	margin-left: 10px;
+	height:200px;
+	float: left;
+	
+}
+.footer1-button{
+	margin-left: -10px;
+	width: 200px;
+	height: 30px;
+	background-color: black;
+	color: white;
+	font-family: serif;
+	border:none;
+}
+.part2{
+	float:left;
+	width: 300px;
+	margin-top:40px;
+	margin-left: 20px;
+	height:200px;
+	
+}
+.part3{
+	float:left;
+	width: 300px;
+	margin-top: 40px;
+	margin-left: 20px;
+	height:200px;
+
+}
+#p5{
+	font-size:20px;
+	color: black;
+	font-weight:bold;
+	float:center;
+	font-family: sans-serif;
+
+}
+#p6{
+	margin-left:60px;
+	margin-top:0px;
+	font-size: 15px;
+	color: black;
+	font-family: sans-serif;
+}
+.footer1-button{
+	margin-top: 20px;
+	width: 223px;
+    height: 30px;
+    border: none;
+    background-color: white;
+    color: green;
+    font-family: serif;
+}
+.footer2{
+	margin: 0px auto;
+	height: 260px;
+	width: 960px;
+}
+.container3{
+	margin-top: 0px;
+	margin-left: 10px;
+	height: 700px;
+	width: 940px;
+	background-color:#deecf7;
+}
+h2{
+	font-size: 30px;
+	text-align: center;
+	padding-top: 100px;
+	color: black;
+	font-family:serif;
+}
+.ppro{
+	font-size:20px;
+	color: #AEAEAE; 
+	text-align: center;
+}
+.img1{
+	margin-left: 60px;
+	margin-top: 60px;
+	height: 270px;
+	width: 250px;
+	background:url("photos/download (5).jpg");
+	background-size: cover;
+	float: left;
+}
+.img2{
+	margin-left: 40px;
+	margin-top: 60px;
+	height: 270px;
+	width: 250px;
+	background:url("photos/download.jpg");
+	background-size: cover;
+	float: left;
+}
+.img3{
+	margin-left: 40px;
+	margin-top: 60px;
+	height: 270px;
+	width: 250px;
+	background:url("photos/images (2).jpg");
+	background-size: cover;
+	float: left;
+}
+.inner3{
+	margin-left: -10px;
+	height: 40px;
+	width: 70px;
+	background:blue;
+	position: relative;
+}
+.ip3{
+	margin-left: 10px;
+	margin-top: 10px;
+	font-size:25px;
+}
+.inner4{
+	margin-top: 110px;
+	margin-left: 10px;
+	height: 50px;
+	width: 100px;
+	background:rgba(35, 8, 3, 0.5);
+	position: relative;
+}
+.ip4{
+	margin-left: 10px;
+	padding-top: 10px;
+	font-size:35px;
+}
+.pimg ,p{
+	font-size: 20px;
+	color: white;
+	margin-left: 10px
+}
+.container4{
+	width: 940px;
+	height: 730px;
+	margin: 0px auto;
+	background:url("photos/portfolio-gilbert-sonoran-home-photo.jpg");
+	background-size:cover;
+} 
+.cline{
+	text-align: center;
+	padding-top: 50px;
+	font-size: 40px;
+	color: white;
+}
+.cp1{
+	margin-top: 450px;
+	margin-left: 10px;
+	height: 50px;
+	width: 300px;
+	float: left;
+}
+.pcp1{
+	font-size: 25px;
+	color: white;
+	margin-left: 60px;
+}
+.cp2{
+	margin-top: 430px;
+	height: 50px;
+	width: 300px;
+	float: left;
+}
+.cp3{
+	margin-top: 450px;
+	height: 50px;
+	width: 300px;
+	float: left;
+}
+.cp1,.cp2,.cp3:hover{
+
+}
+.container5{
+	margin-top: -25px;
+	margin-left: 10px;
+	height: 700px;
+	width: 940px;
+	background-color:#deecf7;
+}
+.footer-img{
+	margin-top: 200px;
+	height: 30px;
+	width: 250px;
+	background:black;
+	position: relative;
+}
+.phm{
+	margin-left: -2px;
+	margin-top: 20px;
+	font-size: 25px;
+	color: blue;
+	font-family: sans-serif;
+}
+.pm2{
+	font-size: 25px;
+	margin-left: -2px;
+	color: green;
+}
+.pm3{
+	margin-left: -2px;
+	color: blue;
+}
+.container6{
+	margin-top: -25px;
+	margin-left: 10px;
+	height: 600px;
+	width: 940px;
+	background-color:#deecf7;
+}
+.img1c6{
+	margin-left: 60px;
+	margin-top: 60px;
+	height: 270px;
+	width: 250px;
+	background:url("photos/images (1).jpg");
+	background-size: cover;
+	float: left;
+}
+.img2c6{
+	margin-left: 40px;
+	margin-top: 60px;
+	height: 270px;
+	width: 250px;
+	background:url("photos/download (3).jpg");
+	background-size: cover;
+	float: left;
+}
+.img3c6{
+	margin-left: 40px;
+	margin-top: 60px;
+	height: 270px;
+	width: 250px;
+	background:url("photos/images (3).jpg");
+	background-size: cover;
+	float: left;
+}
+.container7{
+	margin-top: -30px;
+	margin-left: 10px;
+	height: 600px;
+	width: 940px;
+	background-color: #44C662;
+}
+.pca{
+	font-size:20px;
+	color: white; 
+	text-align: center;
+}
+
+.img1c{
+	margin-top: 50px;
+	width: 180px;
+	height: auto;
+	float: left;
+	margin-left: 40px;
+}
+.imgc7{
+	border-radius: 50%;
+	margin-left: 0px;
+	height: auto;
+	width: 180px;
+}
+.name{
+	color: black
+}
+.namelorem{
+	text-align: center;
+	font-size: 15px;
+	margin-top: 10px;
+}
+.icon{
+	height: 35px;
+	width: 180px;
+}
+.div1{
+	margin-top: 10px;
+	height: 30px;
+	width: 30px;
+	float: left;
+	margin-left: -45px;
+}
+.div2{
+	margin-top: 10px;
+	height: 30px;
+	width: 30px;
+	float: left;
+	margin-left: -2px;	
+}
+.div3{
+	margin-top: 10px;
+	height: 30px;
+	width: 30px;
+	float: left;
+	margin-left: 15px;
+}
+.div4{
+	margin-top: 10px;
+	float: left;
+	margin-left: 20px;
+}
+.footer{
+	height:50px;
+	width:940px;
+	background-color:black;
+	color:white;
+	margin:0px auto;
+	text-align:center;
+	line-height:50px;
+	font-size:20px;
+	border-radius:5px 5px 5px 5px; 
+}
+	
+
